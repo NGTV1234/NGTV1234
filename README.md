@@ -11,6 +11,6 @@
 </p>
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z64BDND)
-[![discord]()](https://discord.gg/NthaQBRK3a)
+[![discord](https://img.icons8.com/material-rounded/24/000000/discord-logo.png)](https://discord.gg/NthaQBRK3a)
 
 ⭐️ Design made by Tanzng
