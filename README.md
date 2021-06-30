@@ -11,7 +11,7 @@
 </p>
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z64BDND)
-[![discord](https://ko-fi.com/img/githubbutton_sm.svg)](https://discord.gg/NthaQBRK3a)
+[![discord](https://i.ibb.co/x1fJwgH/Discord-button.png)](https://discord.gg/NthaQBRK3a)
 
 
 ⭐️ Design made by Tanzng
