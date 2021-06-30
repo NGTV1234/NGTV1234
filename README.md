@@ -11,24 +11,5 @@
 </p>
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z64BDND)
-<script type="text/javascript" src="//cdn.jsdelivr.net/gh/restingcoder/discord-widget@1.1/discord-widget.min.js"></script>
-<script type="text/javascript">
-    discordWidget.init({
-        serverId: '733684933780045975',
-        title: 'Elevate Designers',
-        join: true,
-        joinText: 'Join Server',
-        alphabetical: false,
-        theme: 'light',
-        hideChannels: ['Channel Name 1', 'Channel Name 2'],
-        showAllUsers: true,
-        allUsersDefaultState: true,
-        showNick: true,
-        userName: '',
-        useCDN: true
-    });
-    discordWidget.render();
-</script>
-<div class="discord-widget"></div>
 
 ⭐️ Design made by Tanzng
