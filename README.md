@@ -11,7 +11,7 @@
 </p>
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z64BDND)
-<iframe src="https://discord.com/widget?id=733684933780045975&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+[![discord](https://ko-fi.com/img/githubbutton_sm.svg)](https://discord.gg/NthaQBRK3a)
 
 
 ⭐️ Design made by Tanzng
