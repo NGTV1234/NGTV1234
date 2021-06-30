@@ -11,6 +11,6 @@
 </p>
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z64BDND)
-[![discord](Discord-Logo+Wordmark-Color.svg)](https://discord.gg/NthaQBRK3a)
+[![discord]()](https://discord.gg/NthaQBRK3a)
 
 ⭐️ Design made by Tanzng
